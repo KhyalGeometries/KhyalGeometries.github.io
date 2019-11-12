@@ -1,0 +1,43 @@
+@import url(../font/microgramma/microgramma.css);
+
+BODY {
+    background-image: url("../img/bg2.jpg");
+    background-size: cover;
+}
+
+DIV.container {
+    background: rgba(0, 0, 0, 0.7);
+}
+
+DIV#toppadding {
+    margin-top: 100px;
+}
+
+DIV.spaced {
+    margin-top: 50px;
+}
+
+H1, H2, H3, A {
+    font-family: "Microgramma";
+    color: #FFFFFF;
+}
+
+A {
+    text-decoration: underline;
+}
+
+#sndrow {
+    margin-top: 30px;
+}
+
+H1 {
+    font-size: 6vw;
+}
+
+H2 {
+    font-size: 4vw;
+}
+
+H3 {
+    font-size: 2vw;
+}
