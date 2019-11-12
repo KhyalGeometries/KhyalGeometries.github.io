@@ -1,1 +1,0 @@
-# KhyalGeometries.github.io
